@@ -25,7 +25,8 @@ html {
 }
 
 body {
-    background-color: var(--black);
+    background-color:#232d31;
+    /* background-color: var(--black); */
 }
 
 /* TYPOGRAPHY */
